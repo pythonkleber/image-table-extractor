@@ -1,0 +1,6 @@
+{
+  "name": "Image Table Extractor",
+  "description": "Upload an image or screenshot of a table. This tool uses AI to read the data and converts it into a spreadsheet-compatible format that you can copy and paste into Excel or Google Sheets.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
