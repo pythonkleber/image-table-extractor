@@ -2,6 +2,7 @@
   "name": "image-table-extractor",
   "version": "1.0.0",
   "description": "Image Table Extractor with Vercel Serverless Function",
+  "type": "module",
   "private": true,
   "scripts": {
     "dev": "vite",
